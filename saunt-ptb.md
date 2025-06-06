@@ -19,8 +19,8 @@
 ## Музеи
 ## Смотровая площадка
 ## Посмотреть снаружи на красоту (здания, дворцы, церкви и тд)
-- [x] GEV
-- [] GGGG
+- [ ] GEV
+- [ ] GGGG
 
 https://afisha.yandex.ru/saint-petersburg/excursions/prostranstvo-krysha?source=selection-events
 
