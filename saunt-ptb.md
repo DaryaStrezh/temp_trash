@@ -19,7 +19,8 @@
 ## Музеи
 ## Смотровая площадка
 ## Посмотреть снаружи на красоту (здания, дворцы, церкви и тд)
-
+- [x] GEV
+- [] GGGG
 
 https://afisha.yandex.ru/saint-petersburg/excursions/prostranstvo-krysha?source=selection-events
 
@@ -49,4 +50,6 @@ https://afisha.yandex.ru/saint-petersburg/excursions/prostranstvo-krysha?source=
 # День 9 (26.06 чт) 
 прибытие 07:45
 
-
+```HTML
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A0b8b6f6b1e899edecb6b6c25ab942b18b4e08b78a7d21de8cb1c5870d3277f70&amp;width=821&amp;height=571&amp;lang=ru_RU&amp;scroll=true"></script>
+```
