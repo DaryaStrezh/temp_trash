@@ -9,9 +9,11 @@
 - красный		-	знак аттракцион	-	качели
 - оранжевый	-	знак здание	-	музей (выставка)
 
-[карта общая](https://yandex.ru/maps/?um=constructor%3A0b8b6f6b1e899edecb6b6c25ab942b18b4e08b78a7d21de8cb1c5870d3277f70&source=constructorLink)
+[карта общая](https://yandex.by/maps/2/saint-petersburg/?ll=30.327452%2C59.950944&mode=usermaps&source=constructorLink&um=constructor%3A0b8b6f6b1e899edecb6b6c25ab942b18b4e08b78a7d21de8cb1c5870d3277f70&z=14)
 
-[Карта Кронштадт - Ломоносов - Петергоф](https://yandex.ru/map-constructor/?from=maps_login)
+(добавить линии-маршруты)
+
+[Карта Кронштадт - Ломоносов - Петергоф](https://yandex.by/maps/98546/peterhof/?ll=29.911576%2C59.878674&mode=usermaps&source=constructorLink&um=constructor%3Ab0216881fdaa375eedb3a7b0f96d7c8ad9ff339eae010047b66898ce764a6eb7&z=16)
 
 [экскурсии](https://experience.tripster.ru/experience/Saint_Petersburg/188-kryishi-i-panoramyi/?utm_source=google&utm_medium=cpc&utm_campaign=excursion_all_srch_dsa_url_all&utm_content=21413302022_Group-167674461287_Ad-704118054215&utm_term=&gad_source=1&gad_campaignid=21413302022&gbraid=0AAAAACq8b7AjxV6E24fQv7sFG3H84a8lA&gclid=CjwKCAjwo4rCBhAbEiwAxhJlCaOd56iuBf2SAXGfRQRlzB4jqVmcp_rCwarurJBceM5mR7trIA8zKRoC2RcQAvD_BwE)
 
