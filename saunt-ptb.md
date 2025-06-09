@@ -48,11 +48,8 @@ https://afisha.yandex.ru/saint-petersburg/excursions/prostranstvo-krysha?source=
 прибытие 07:45
 
 
-# 1. Кронштадт - Ломоносов - Петергоф
+# 1. [Кронштадт - Ломоносов - Петергоф](https://yandex.by/maps/98546/peterhof/?ll=29.911576%2C59.878674&mode=usermaps&source=constructorLink&um=constructor%3Ab0216881fdaa375eedb3a7b0f96d7c8ad9ff339eae010047b66898ce764a6eb7&z=16)
 (добавить линии-маршруты)
-
-[Карта Кронштадт - Ломоносов - Петергоф](https://yandex.by/maps/98546/peterhof/?ll=29.911576%2C59.878674&mode=usermaps&source=constructorLink&um=constructor%3Ab0216881fdaa375eedb3a7b0f96d7c8ad9ff339eae010047b66898ce764a6eb7&z=16)
-
 Если выйдем в 9
 - С дома до Кронштадта: ~ 1 час 15 минут (10:15)
 - В Кронштадте: ~ 3 часа (до 13:15)
