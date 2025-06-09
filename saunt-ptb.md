@@ -1,8 +1,8 @@
-
+[Яндекс Афиша](https://afisha.yandex.ru/saint-petersburg/excursions/prostranstvo-krysha?source=selection-events )
 [экскурсии](https://experience.tripster.ru/experience/Saint_Petersburg/188-kryishi-i-panoramyi/?utm_source=google&utm_medium=cpc&utm_campaign=excursion_all_srch_dsa_url_all&utm_content=21413302022_Group-167674461287_Ad-704118054215&utm_term=&gad_source=1&gad_campaignid=21413302022&gbraid=0AAAAACq8b7AjxV6E24fQv7sFG3H84a8lA&gclid=CjwKCAjwo4rCBhAbEiwAxhJlCaOd56iuBf2SAXGfRQRlzB4jqVmcp_rCwarurJBceM5mR7trIA8zKRoC2RcQAvD_BwE)
 
 [карта общая](https://yandex.by/maps/2/saint-petersburg/?ll=30.327452%2C59.950944&mode=usermaps&source=constructorLink&um=constructor%3A0b8b6f6b1e899edecb6b6c25ab942b18b4e08b78a7d21de8cb1c5870d3277f70&z=14)
-
+```bash
 - светло-зелёный	-	знак леса	      -	парк
 - светло-голубой	-	знак звезда    	-	памятники/статуи
 - голубой		      -	знак здание    	-	здание (дворец или дом)
@@ -13,11 +13,11 @@
 - жёлтый		      -	знак церкви	    -	церковь
 - красный		      -	знак аттракцион	-	качели
 - оранжевый	      -	знак здание    	-	музей (выставка за деньги)
+```
 
 
-https://afisha.yandex.ru/saint-petersburg/excursions/prostranstvo-krysha?source=selection-events 
 
-
+```bash
 дом Санкт-Петербург, посёлок Парголово, улица Фёдора Абрамова, 8  (м. парнас синяя ветка(2))
 День 0 (17.06 ср) ВЫЕЗД 17.06 вт 18:58 15 вагон 13 место
 День 1 (18.06 ср) приезд в 8:15
@@ -29,7 +29,7 @@ https://afisha.yandex.ru/saint-petersburg/excursions/prostranstvo-krysha?source=
 День 7 (24.06 вт)
 День 8 (25.06 ср) отъезд в 18:26 17 вагон 25 место
 День 9 (26.06 чт) прибытие 07:45
-
+```
 
 # 1. Маршрут [Кронштадт - Ломоносов - Петергоф](https://yandex.by/maps/98546/peterhof/?ll=29.911576%2C59.878674&mode=usermaps&source=constructorLink&um=constructor%3Ab0216881fdaa375eedb3a7b0f96d7c8ad9ff339eae010047b66898ce764a6eb7&z=16)
 (добавить линии-маршруты)
