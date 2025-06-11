@@ -17,10 +17,9 @@
 болотный 	-	доллар		-	магазины
 ```
 
-
-
 ```bash
 дом Санкт-Петербург, посёлок Парголово, улица Фёдора Абрамова, 8  (м. парнас синяя ветка(2))
+
 День 0 (17.06 ср) ВЫЕЗД 17.06 вт 18:58 15 вагон 13 место
 День 1 (18.06 ср) приезд в 8:15
 День 2 (19.06 чт)
@@ -48,8 +47,7 @@
 - [Ботанический сад Петра Великого](https://botsad-spb.com/ru/posetitelyam/elektronnye-bilety) (от 300р вт-вс 10:00 - 16:30)
 - Крейсер Аврора (200р)
 - Петропавловская крепость
-- [Планетарий](https://spb.kassir.ru/shou/planetariy-v-lyumer-holle-5b23b3b1b2037?utm_medium=cpc&utm_source=yandex&utm_campaign=nbo-pr14704-RF-reg-DSA-RF-handmade-search-rt%7C107209951&utm_term=---autotargeting&utm_content=k50id%7C0100000053001463409_53001463409%7Ccid%7C107209951%7Cgid%7C5490684272%7Caid%7C1853244622265123214%7Cadp%7Cno%7Cpos%7Cpremium1%7Csrc%7Csearch_none%7Cdvc%7Cdesktop&yclid=4286915697706008575#2612832
-) (750р вт-вс 10:00 - 19:30)
+- [Планетарий](https://spb.kassir.ru/shou/planetariy-v-lyumer-holle-5b23b3b1b2037?utm_medium=cpc&utm_source=yandex&utm_campaign=nbo-pr14704-RF-reg-DSA-RF-handmade-search-rt%7C107209951&utm_term=---autotargeting&utm_content=k50id%7C0100000053001463409_53001463409%7Ccid%7C107209951%7Cgid%7C5490684272%7Caid%7C1853244622265123214%7Cadp%7Cno%7Cpos%7Cpremium1%7Csrc%7Csearch_none%7Cdvc%7Cdesktop&yclid=4286915697706008575#2612832) (750р вт-вс 10:00 - 19:30)
 - Дом-восьмиугольник
 - [Музей сновидений Фрейда](freud.ru) (300 р, вт 12:00 - 17:00, сб-вс 12:00 - 17:00)
 - Мираж синема (пн-чт 11:00 - 01:00, пт 11:00 - 03:00, сб 10:00 - 03:00, вс 10:00 - 01:00)
@@ -61,9 +59,19 @@
 Центр современного искусства (160р пн-сб 12:00–21:00 вс 11:00–20:00)
 Арт-центр Пушкинская-10 (450р ср-пт 16:00–20:00 сб-вс 12:00–20:00)
 тц Галерея
-# 4. [Невский проспект](https://yandex.ru/maps/?um=constructor%3A177ee12a93a452592bebe6fdd737e0cbbfb1c43aceed9c2e5e51c181ac15cb36&source=constructorLink)  сделать
-# 5. [Эрмитаж]()  сделать
-# 6. [Главные достопремечательности](https://yandex.ru/maps/?um=constructor%3Af588376947fb49c936a616426ef83cf09a8e7d6f7cdc38bb98a205c8857267ec&source=constructorLink)  (сделать описание)
-# 7. [Лмаршрут](https://yandex.ru/maps/?um=constructor%3Acd824a9a6f6220ea2b8d49a571cbff04c312b3ed7ffdf343cb6521c626715a1f&source=constructorLink) (сделать)
-# 7. (день приезда (8:15) - лайт)
-# 8. (день отъезда (18:26) - лайт)
+
+# 4. [Главные достопремечательности](https://yandex.ru/maps/?um=constructor%3Af588376947fb49c936a616426ef83cf09a8e7d6f7cdc38bb98a205c8857267ec&source=constructorLink)  (сделать описание)
+# 5. [Лмаршрут](https://yandex.ru/maps/?um=constructor%3Acd824a9a6f6220ea2b8d49a571cbff04c312b3ed7ffdf343cb6521c626715a1f&source=constructorLink) (сделать описание )
+
+# х. [Невский проспект](https://yandex.ru/maps/?um=constructor%3A177ee12a93a452592bebe6fdd737e0cbbfb1c43aceed9c2e5e51c181ac15cb36&source=constructorLink)  переделать
+# х. [какой-то день]()  сделать
+- сделать ночной день (бары + ночной катер)
+- эрмитаж сделать
+- лахта-цент сделать
+- севкабель порт сделать
+- встретиться с катей и сашей
+- день покупок
+- 
+
+# х. (день приезда среда (8:15) - лайт)
+# х. (день отъезда среда (18:26) - лайт)
