@@ -63,7 +63,7 @@
 тц Галерея
 # 4. [Невский проспект](https://yandex.ru/maps/?um=constructor%3A177ee12a93a452592bebe6fdd737e0cbbfb1c43aceed9c2e5e51c181ac15cb36&source=constructorLink)  сделать
 # 5. [Эрмитаж]()  сделать
-# 6. [Севкабель порт и новая голандия]()  (сделать)
+# 6. [Главные достопремечательности](https://yandex.ru/maps/?um=constructor%3Af588376947fb49c936a616426ef83cf09a8e7d6f7cdc38bb98a205c8857267ec&source=constructorLink)  (сделать описание)
 # 7. [Лахта центр]() (сделать)
 # 7. (день приезда (8:15) - лайт)
 # 8. (день отъезда (18:26) - лайт)
