@@ -33,7 +33,7 @@
 День 9 (26.06 чт) прибытие 07:45
 ```
 
-# 1. Маршрут [Кронштадт - Ломоносов - Петергоф](https://yandex.by/maps/98546/peterhof/?ll=29.911576%2C59.878674&mode=usermaps&source=constructorLink&um=constructor%3Ab0216881fdaa375eedb3a7b0f96d7c8ad9ff339eae010047b66898ce764a6eb7&z=16)
+# 1. Маршрут [Кронштадт - Ломоносов - Петергоф](https://yandex.by/maps/2/saint-petersburg/?ll=30.363582%2C59.913069&mode=usermaps&source=constructorLink&um=constructor%3Ab0216881fdaa375eedb3a7b0f96d7c8ad9ff339eae010047b66898ce764a6eb7&z=10)
 
 - С дома до Кронштадта: ~ 1 час 15 минут 
   - дойти от дома к остановке **"ул. Меркурьева"**, сесть на автобус **143** или **207**.
